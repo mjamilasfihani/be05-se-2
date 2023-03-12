@@ -1,0 +1,10 @@
+nama: Mohammad Jamil Asfihani
+url profile github: github.com/mjamilasfihani
+algoritma: makan roti panggang,
+           rotinya ada di dapur,
+           saya ada dikamar,
+     1. Mulai
+     2. Berjalan ke dapur
+     3. Ambil rotinya
+     4. Makan dengan senang
+     5. Selesai
